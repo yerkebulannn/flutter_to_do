@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib/pages/home.dart)",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "to_do",
+      "program": "lib/pages/home.dart"
+    }
+  ]
+}
